@@ -50,7 +50,7 @@ Please find below some information about me
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        I don't think so. At least, not in the sci-fi dystopian sense but I think we will learn to live with A.I. just as we have learnt to live with all emerging technologies such as mobile phones, contactless payments, or even further back with credit cards, emails, and even the car! A.I. will supercede certain aspects of our life to make things easier but I think like with the above- it will also be a bit of trial and error before we reach a nice middle ground.
+        I don't think so. At least, not in the sci-fi dystopian sense but I think we will learn to live with A.I. just as we have learnt to live with all emerging technologies such as mobile phones, contactless payments, or even further back with credit cards, emails, and even the car! A.I. will supercede certain aspects of our life to make things easier but I think like with the above- it will also be a bit of trial and error before we reach a nice middle ground!
       </div>
     </div>
   </div>
