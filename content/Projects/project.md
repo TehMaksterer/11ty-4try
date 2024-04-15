@@ -64,7 +64,7 @@ eleventyNavigation:
   <div class="row">
   <div class="col-lg-4 mb-4 d-flex align-items-stretch" style="display: flex; flex-wrap: wrap; align-items: stretch">
     <div class="card" style="display: flex; flex-wrap: wrap; align-items: stretch">
-      <img src="/src/assets/images/Tips.jpg" class="card-img-top" alt="Tip screenshot">
+      <img src="/src/assets/images/Tips.jpeg" class="card-img-top" alt="Tip screenshot">
       <div class="card-body">
         <h5 class="card-title"> <a href="https://codepen.io/TehMaksterer/pen/QWooqZa?editors=0010" target="_blank"> Calculating tips with JavaScript </a></h5>
         <p class="card-text">One of the first JavaScript tasks of the course was to write a programme that would calculate the tips of a meal.</p>
@@ -74,7 +74,7 @@ eleventyNavigation:
   
   <div class="col-lg-4 mb-3 d-flex align-items-stretch" style="display: flex; flex-wrap: wrap; align-items: stretch">
     <div class="card" style="display: flex; flex-wrap: wrap; align-items: stretch">
-      <img src="/src/assets/images/Temperature.jpg" class="card-img-top" alt="...">
+      <img src="/src/assets/images/Temperature.jpeg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title"> <a href="https://codepen.io/TehMaksterer/pen/QWoPVjo?editors=0010" target="_blank">Temperature? </a> </h5>
         <p class="card-text">This task required a JavaScript if statements to decide on what clothing is appropriate to wear </p>
@@ -94,7 +94,7 @@ eleventyNavigation:
 
    <div class="col-lg-4 mb-4 d-flex align-items-stretch" style="display: flex; flex-wrap: wrap; align-items: stretch">
     <div class="card">
-      <img src="/src/assets/images/Calculator.jpg" class="card-img-top" alt="...">
+      <img src="/src/assets/images/Calculator.jpeg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title"><a href="https://codepen.io/TehMaksterer/pen/dyLYymR?editors=0010"> JavaScript Calculator </a> </h5>
         <p class="card-text"> Building upon the switch statment, passing through two numbers along with an operator e.g. addition, subtraction, division and multiplication will display a calculated result </p>
@@ -104,7 +104,7 @@ eleventyNavigation:
 
    <div class="col-lg-4 mb-4 d-flex align-items-stretch" style="display: flex; flex-wrap: wrap; align-items: stretch">
     <div class="card">
-      <img src="/src/assets/images/Mathematics.jpg" class="card-img-top" alt="...">
+      <img src="/src/assets/images/Mathematics.jpeg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title"><a href="https://codepen.io/TehMaksterer/pen/oNOxxpJ?editors=0012"> Looping through 7 times table </a> </h5>
         <p class="card-text"> First loop in JavaScript code to loop the 7 times table </p>
@@ -113,7 +113,7 @@ eleventyNavigation:
   </div>
    <div class="col-lg-4 mb-4 d-flex align-items-stretch" style="display: flex; flex-wrap: wrap; align-items: stretch">
     <div class="card">
-      <img src="/src/assets/images/Foods.jpg" class="card-img-top" alt="...">
+      <img src="/src/assets/images/Foods.jpeg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title"><a href="https://codepen.io/TehMaksterer/pen/MWRybjp?editors=0011"> Favourite Foods and Adding to the Array </a> </h5>
         <p class="card-text"> Creating an Array in JavaScript, pushing a new item to the list, and then looping through the array of my favourite foods (and drinks)</p>
@@ -122,7 +122,7 @@ eleventyNavigation:
   </div>
    <div class="col-lg-4 mb-4 d-flex align-items-stretch" style="display: flex; flex-wrap: wrap; align-items: stretch">
     <div class="card">
-      <img src="/src/assets/images/Cheesecake.jpg" class="card-img-top" alt="...">
+      <img src="/src/assets/images/Cheesecake.jpeg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title"><a href="https://codepen.io/TehMaksterer/pen/JjVKrKr?editors=0011"> Creation of an Object</a> </h5>
         <p class="card-text"> Using JavaScript to create an object to hold multiple types of information including numbers, strings, and arrays. Please note this is not the correct way of making Strawberry Cheesecake</p>
@@ -131,7 +131,7 @@ eleventyNavigation:
   </div>
    <div class="col-lg-4 mb-4 d-flex align-items-stretch" style="display: flex; flex-wrap: wrap; align-items: stretch">
     <div class="card">
-      <img src="/src/assets/images/SanjiCook.jpg" class="card-img-top" alt="...">
+      <img src="/src/assets/images/SanjiCook.jpeg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title"><a href="https://codepen.io/TehMaksterer/pen/dyLXZbr?editors=0011"> Let's Cook </a> </h5>
         <p class="card-text"> Adding onto the previous task '<i>Creation of an Object</i>', this adds a function which calls upon a value within the object in a string</p>
@@ -140,7 +140,7 @@ eleventyNavigation:
   </div>
      <div class="col-lg-4 mb-4 d-flex align-items-stretch" style="display: flex; flex-wrap: wrap; align-items: stretch">
     <div class="card">
-      <img src="/src/assets/images/average.jpg" class="card-img-top" alt="...">
+      <img src="/src/assets/images/average.jpeg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title"><a href="https://codepen.io/TehMaksterer/pen/bGJwvPR?editors=0011"> Mean, Mode, and Median </a> </h5>
         <p class="card-text"> Calculation of Mean, Mode, and Median using JavaScript through the use of functions, loops, and if statments</p>
@@ -149,7 +149,7 @@ eleventyNavigation:
   </div>
  <div class="col-lg-4 mb-4 d-flex align-items-stretch" style="display: flex; flex-wrap: wrap; align-items: stretch">
     <div class="card">
-      <img src="/src/assets/images/shoping cart.jpg" class="card-img-top" alt="...">
+      <img src="/src/assets/images/shoping cart.jpeg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title"><a href="https://codepen.io/TehMaksterer/pen/QWPKdQv?editors=0012"> The Shopping Cart</a> </h5>
         <p class="card-text"> The creation of a shopping cart object containing: item, quantity, price, and type. The function will then calculate the total price of the shopping cart</p>
@@ -158,7 +158,7 @@ eleventyNavigation:
   </div>
    <div class="col-lg-4 mb-4 d-flex align-items-stretch" style="display: flex; flex-wrap: wrap; align-items: stretch">
     <div class="card">
-      <img src="/src/assets/images/discount.jpg" class="card-img-top" alt="...">
+      <img src="/src/assets/images/discount.jpeg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title"><a href="https://codepen.io/TehMaksterer/pen/BaEpqeG?editors=0011"> Shopping with Discounts!</a> </h5>
         <p class="card-text"> Similar to the previous task but this time the user can choose the percentage discount and what type of item it will apply to - if they input any then all products will have that discount applied. If only that was true in real life. This was done by the if statement identifying whether the object contained 'food' value and then applying the discount</p>
