@@ -17,7 +17,7 @@ eleventyNavigation:
     <div class="card">
       <img src="/src/assets/images/collectionoffriends.png" class="card-img-top" alt="..." style="width:100%; height:15vw; object-fit:cover;">
       <div class="card-body d-flex flex-column">
-        <h5 class="card-title"> <a href="https://siteforfriends.netlify.app" target="_blank"> Site for Friends</h5>
+        <h5 class="card-title"> <a href="https://siteforfriends.netlify.app" target="_blank"> Site for Friends</a> <h5>
         <p class="card-text">This is a website I had built using the knowledge from the course. </p>
         <ul>
           <li> Bootstrap template modified with HTML </li>
